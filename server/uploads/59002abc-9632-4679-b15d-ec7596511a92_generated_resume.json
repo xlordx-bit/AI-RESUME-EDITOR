@@ -1,0 +1,44 @@
+{
+  "id": "59002abc-9632-4679-b15d-ec7596511a92",
+  "personalInfo": {
+    "name": "Pranjal Agarwal",
+    "email": "test12@gmail.com",
+    "phone": "7017283728",
+    "location": "Roorkee",
+    "linkedin": "lindin",
+    "website": "",
+    "title": "Software Engineer"
+  },
+  "summary": "Experienced professional with expertise in JavaScript, Python, Java. Proven track record in delivering high-quality results and driving business growth.",
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "Snapchat",
+      "duration": "jan2025-july2025",
+      "description": "",
+      "location": "rookee"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "MIT",
+      "year": "2028",
+      "gpa": "9.9",
+      "location": ""
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "Node.js",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL"
+  ],
+  "projects": [],
+  "certifications": [],
+  "generated_at": "2025-07-07T21:12:04.031049",
+  "template": "professional"
+}

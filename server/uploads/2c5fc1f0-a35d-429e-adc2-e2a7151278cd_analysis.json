@@ -1,0 +1,41 @@
+{
+  "overall_score": 40,
+  "ats_compatibility": 75,
+  "keywords": {
+    "technical": [
+      "python",
+      "javascript",
+      "java",
+      "react",
+      "sql",
+      "html",
+      "css",
+      "git",
+      "machine learning"
+    ],
+    "soft_skills": [],
+    "action_verbs": [
+      "led",
+      "designed",
+      "built"
+    ],
+    "total_count": 9
+  },
+  "structure": {
+    "sections": {
+      "contact": true,
+      "summary": true,
+      "experience": true,
+      "education": true,
+      "skills": true
+    },
+    "word_count": 439,
+    "bullet_points": 16,
+    "has_metrics": true
+  },
+  "recommendations": [
+    "Add more relevant industry keywords to improve ATS compatibility"
+  ],
+  "analysis_date": "2025-07-06T18:40:44.976563",
+  "file_type": "pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "166244bc-a9ad-41e2-b2c5-e5a3a203e584",
+  "personalInfo": {
+    "name": "pranjal",
+    "email": "TEST@Gmail.com",
+    "phone": "75764674764",
+    "location": "roorkee",
+    "linkedin": "linkind",
+    "website": "",
+    "title": "soft"
+  },
+  "summary": "Experienced professional with expertise in , , . Proven track record in delivering high-quality results and driving business growth.",
+  "experience": [
+    {
+      "title": "web",
+      "company": "iit",
+      "duration": "jan 20 - jul20",
+      "description": "jnjoenfifioefniofniovniovnioveioni",
+      "location": "rookee"
+    }
+  ],
+  "education": [
+    {
+      "degree": "class 10",
+      "institution": "owewww",
+      "year": "abn",
+      "gpa": "",
+      "location": ""
+    }
+  ],
+  "skills": [
+    "",
+    "",
+    ""
+  ],
+  "projects": [],
+  "certifications": [],
+  "generated_at": "2025-07-07T21:05:56.236110",
+  "template": "professional"
+}
